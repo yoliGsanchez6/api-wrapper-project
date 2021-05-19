@@ -26,3 +26,5 @@ $ npm run start
 ```
 http://localhost:3000/
 ```
+
+6. Cuando terminéis es importante cerrar o matar el proceso. Si se te olvida, el puerto 3000 seguirá estando en uso y si vuelves a tratar de arrancar la app te fallará.
